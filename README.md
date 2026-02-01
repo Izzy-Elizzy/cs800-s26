@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CS 800, Spring 2026 
 
 Mondays 4:30-7:10pm, ED2 1114
@@ -100,4 +99,3 @@ CRN 32738
 
 * Assignment 1: Course Setup and RCR
    * [Due: Feb 2](/assignments/assignment-01.md)
->>>>>>> e0ad1e007e9b58e605d21ff54dee5d99aa039ee3
