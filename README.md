@@ -43,6 +43,7 @@ CRN 32738
   * [Slides](https://docs.google.com/presentation/d/1UBpGkgQWNVQCe0zvh77ZyEMSibUSDkeRnf5zDxyrrIM/edit)
   * [Video](https://virginiatech.zoom.us/rec/share/jM_lI1my3ydGVGoVIjoNSNfoao7ZxRkYwQHLB5sdxIknH5x3W5D0AIo5GTIQeOU.C6W-6sTQFAfhP0eB)
 * Week 07:	Mar 9	Writing and Reviewing
+  * [Class slides](https://docs.google.com/presentation/d/1uiMukqQHugvHpUwyUTz3Vjx2zsLnyoVTXqGYmzzJkZo/edit)
 * Week 08:	Mar 16	**NO CLASS - Spring Break**  
 * Week 09:	Mar 23	Students Presentations (1/2)
 * Week 10: Mar 30  Students Presentations (2/2)
