@@ -101,7 +101,7 @@ https://doi.org/10.48550/arXiv.2512.01295
 ```
 @article{christodorescu2025systems,
   author  = {Christodorescu, Mihai and Fernandes, Earlence and Hooda, Ashish and Jha, Somesh and Rehberger, Johann and Shams, Kayhan},
-  title   = {Systems Security Foundations for {Agentic Computing}},
+  title   = {Systems Security Foundations for Agentic Computing},
   journal = {arXiv preprint arXiv:2512.01295},
   year    = {2025},
   url     = {https://arxiv.org/abs/2512.01295}
@@ -159,7 +159,7 @@ https://doi.org/10.48550/arXiv.2508.14704
 ```
 @article{luo2025mcp,
   author  = {Luo, Ziyu and Shen, Zehui and Yang, Wenhao and Zhao, Zheng and Jwalapuram, Prathyusha and Saha, Ankit and Sahoo, Doyen and Savarese, Silvio and Xiong, Caiming and Li, Juan},
-  title   = {{MCP-Universe}: Benchmarking Large Language Models with Real-World {Model Context Protocol} Servers},
+  title   = {{MCP-Universe}: Benchmarking Large Language Models with Real-World Model Context Protocol Servers},
   journal = {arXiv preprint arXiv:2508.14704},
   year    = {2025},
   url     = {https://arxiv.org/abs/2508.14704}
