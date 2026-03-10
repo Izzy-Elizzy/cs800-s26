@@ -36,11 +36,13 @@ In this assignment, I have created an overleaf file with sections below:
 
 ## Files
 
-## Main file
+### Main file
+Main Latex file
 - [litreview.tex](Latex_files/litreview.tex)
 
 ### Components
-- [Introduction](Latex_files/components/introduction.tex)
+I have placed each section in a different files for the sake of modularity.
+- [Introduction](Latex_files/components/introduction.tex) 
 - [Summaries](Latex_files/components/summaries.tex)
 - [Synthesis](Latex_files/components/synthesis.tex)
 
@@ -57,8 +59,7 @@ In this assignment, I have created an overleaf file with sections below:
 
 
 ## YouTube Video
-
-***Overleaf walkthrough and literature review overview:**
+### An overview of the overleaf, sections, and a brief explanation of each paper
 
 https://youtu.be/hnhchQ9Q3Bw
 
