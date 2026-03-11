@@ -1,4 +1,18 @@
 # CS 800, Spring 2026 - HW4: Literature Review
+***Mehrdad Rostamzadeh***  
+
+CS 800, Spring 2026
+
+## Assignment 4
+
+In this assignment, I have created an overleaf file with sections below:
+- introduction: An overview of the research area, and why these papers were selected.
+- summary: A section that summaries each of the selected papers
+- synthesis: A section to describe how each of the papers are related to each other
+- references: Reference section 
+
+
+
 
 # Project Structure
 ```
@@ -24,13 +38,6 @@
 A description of the assignment, directories, files, links, etc.
 
 
-## Assignment 4
-
-In this assignment, I have created an overleaf file with sections below:
-- introduction: An overview of the research area, and why these papers were selected.
-- summary: A section that summaries each of the selected papers
-- synthesis: A section to describe how each of the papers are related to each other
-- references: Reference section 
 
 
 
@@ -59,7 +66,7 @@ I have placed each section in a different files for the sake of modularity.
 
 
 ## YouTube Video
-### An overview of the overleaf, sections, and a brief explanation of each paper
+#### An overview of the overleaf, sections, and a brief explanation of each paper
 
 https://youtu.be/hnhchQ9Q3Bw
 
