@@ -108,6 +108,6 @@ These works collectively examine both **attack mechanisms and defensive strategi
 
 **Overleaf compilation walkthrough and literature review overview**
 
-Video Link: **INSERT_YOUTUBE_LINK_HERE**
+Video Link: https://youtu.be/ke488pwpgJY
 
 
