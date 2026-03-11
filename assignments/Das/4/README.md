@@ -33,7 +33,7 @@ The document was written in **LaTeX using the provided course template** and com
 [litreview.bib](LaTex%20Files/litreview.bib)
 
 📑 **Research Papers Used in the Review**  
-[A4_papers](A4_papers/)
+[A4_papers](A4_papers)
 
 ---
 
@@ -68,8 +68,9 @@ The document was written in **LaTeX using the provided course template** and com
 
 # Research Topic
 
-My research area focuses on **security of large language models (LLMs)**.  
-This literature review analyzes recent work addressing security challenges in LLM systems, including:
+My research area focuses on **security of large language models (LLMs)**.
+
+This literature review examines recent research addressing several important security challenges in modern LLM systems, including:
 
 - adversarial jailbreak attacks
 - privacy leakage during third-party inference
@@ -77,7 +78,7 @@ This literature review analyzes recent work addressing security challenges in LL
 - backdoor attacks in natural language processing models
 - guardrail frameworks for improving LLM agent safety
 
-These papers collectively explore both **attack mechanisms and defense strategies** aimed at improving the security and reliability of modern LLM-based systems.
+These papers collectively explore both **attack mechanisms and defensive strategies** aimed at improving the safety and reliability of LLM-based systems.
 
 ---
 
@@ -102,7 +103,7 @@ These papers collectively explore both **attack mechanisms and defense strategie
 
 # Literature Review Preview
 
-You can open the compiled PDF directly here:
+Open the compiled paper here:
 
 [CS_800__A4_Das.pdf](LaTex%20Files/CS_800__A4_Das.pdf)
 
@@ -118,6 +119,6 @@ The video demonstrates:
 
 - Opening the Overleaf project
 - Compiling the LaTeX document
-- Downloading the PDF
+- Downloading the final PDF
 - Scrolling through the literature review
-- Briefly explaining each research paper included in the review
+- Brief explanation of each research paper included in the review
