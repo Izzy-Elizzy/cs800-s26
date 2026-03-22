@@ -43,8 +43,7 @@ A video demonstrating:
 - Downloading the final PDF
 - Scrolling through the literature review and briefly describing each paper
 #### Link :
-
-Link: https://www.youtube.com/watch?v=JXsnciKaq0k
+https://www.youtube.com/watch?v=JXsnciKaq0k
 
 
 
