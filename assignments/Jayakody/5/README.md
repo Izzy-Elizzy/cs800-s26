@@ -79,11 +79,11 @@ The presentation covers:
 }
 ```
 
-### DEEPsquared (2023)
+### DEEP-squared (2023)
 
 ```bibtex
 @article{wijethilake2023deep,
-  title={DEEPsquared: deep learning powered de-scattering with excitation patterning},
+  title={{DEEP}-squared: deep learning powered de-scattering with excitation patterning},
   author={Wijethilake, Navodini and Anandakumar, Mithunjha and Zheng, Cheng and So, Peter TC and Yildirim, Murat and Wadduwage, Dushan N},
   journal={Light: Science and Applications},
   volume={12},
