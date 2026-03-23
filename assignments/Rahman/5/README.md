@@ -44,7 +44,7 @@ Link: [https://dl.acm.org/doi/full/10.1145/3708821.3733882](https://dl.acm.org/d
 @inproceedings{10.1145/3708821.3733882,​
 author = {Shen, Xiangmin and Wang, Lingzhi and Li, Zhenyuan and Chen, Yan and Zhao, Wencheng and
 Sun, Dawei and Wang, Jiashui and Ruan, Wei},​
-title = {{PentestAgent:} Incorporating LLM Agents to Automated Penetration Testing},​
+title = {{PentestAgent:} Incorporating {LLM} Agents to Automated Penetration Testing},​
 year = {2025},​
 isbn = {9798400714108},​
 publisher = {Association for Computing Machinery},​

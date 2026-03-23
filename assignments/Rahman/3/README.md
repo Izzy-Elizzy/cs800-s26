@@ -36,7 +36,8 @@ Rahman
 @misc{mulla2025automation,
   title={The Automation Advantage in {AI} Red Teaming},
   author={Mulla, Rob and Dawson, Ads and Abruzzon, Vincent and Greunke, Brian and Landers, Nick and Palm, Brad and Pearce, Will},
-  journal={arXiv preprint arXiv:2504.19855},
+  number ={arXiv:2504.19855},
+  institution = {arXiv},
   year={2025}
 }
 ```
@@ -50,7 +51,8 @@ PDF: [Red Teaming](../3/pdfs/adv_ai_2504.19855v2.pdf) \
 @misc{balassone2025cybersecurity,
   title={Cybersecurity {AI}: Evaluating Agentic Cybersecurity in Attack/Defense {CTFs}},
   author={Balassone, Francesco and Mayoral-Vilches, V{\'\i}ctor and Rass, Stefan and Pinzger, Martin and Perrone, Gaetano and Romano, Simon Pietro and Schartner, Peter},
-  journal={arXiv preprint arXiv:2510.17521},
+  number ={arXiv:2510.17521},
+  institution = {arXiv},
   year={2025}
 }
 ```
@@ -65,7 +67,8 @@ PDF: [CAI](../3/pdfs/cai_2510.17521v1.pdf) \
 @misc{udeshi2025d,
   title={{D-CIPHER}: Dynamic Collaborative Intelligent Multi-Agent System with Planner and Heterogeneous Executors for Offensive Security},
   author={Udeshi, Meet and Shao, Minghao and Xi, Haoran and Rani, Nanda and Milner, Kimberly and Putrevu, Venkata Sai Charan and Dolan-Gavitt, Brendan and Shukla, Sandeep Kumar and Krishnamurthy, Prashanth and Khorrami, Farshad and others},
-  journal={arXiv preprint arXiv:2502.10931},
+  number ={arXiv:2502.10931},
+  institution = {arXiv},
   year={2025}
 }
 ```
@@ -98,7 +101,8 @@ PDF: [PentestGPT](../3/pdfs/p_gpt_2308.06782v2.pdf) \
 @misc{mayoral2025cybersecurity,
   title={Cybersecurity {AI}: Hacking the {AI} Hackers via Prompt Injection},
   author={Mayoral-Vilches, V{\'\i}ctor and Rynning, Per Mannermaa},
-  journal={arXiv preprint arXiv:2508.21669},
+  number ={arXiv:2508.21669},
+  institution = {arXiv},
   year={2025}
 }
 ```
