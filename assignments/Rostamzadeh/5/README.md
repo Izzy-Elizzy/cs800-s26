@@ -32,7 +32,7 @@ For this project, the following papers were selected to demonstrate the evolutio
 ## Paper 1  MCP Universe
 
 ### MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers
-
+- **Foundational Paper**: [MCP-Universe Project Page](https://mcp-universe.github.io)
 ### BibTex
 
 ```
@@ -48,7 +48,7 @@ For this project, the following papers were selected to demonstrate the evolutio
 ## Paper2 MCP-SafetyBench
 
 ### MCP-SafetyBench: A Benchmark for Safety Evaluation of Large Language Models with Real-World MCP Servers
-
+- **Substantive Extension**: [MCP-SafetyBench Repository](https://anonymous.4open.science/r/MCP-SafetyBench-5738)
 ### BibTex Entry
 
 ```
