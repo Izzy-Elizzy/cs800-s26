@@ -56,8 +56,7 @@ This submission contains five papers from my research area (applied cryptography
 ```bibtex
 @inproceedings{koirala2025select,
     author = {Koirala, Nirajan and Paik, Seunghun and Martin, Sam and Berens, Helena and Januszewicz, Tasha and Takeshita, Jonathan and Seo, Jae Hong and Jung, Taeho},
-    title = {{S}elect-{T}hen-{C}ompute: {E}ncrypted {L}abel {S}election and {A}nalytics over {D}istributed {D}atasets using {
-    FHE}},
+    title = {{S}elect-{T}hen-{C}ompute: {E}ncrypted {L}abel {S}election and {A}nalytics over {D}istributed {D}atasets using {FHE}},
     year = {2026},
     isbn = {9798991927680},
     url = {https://dx.doi.org/10.14722/ndss.2026.240207},
