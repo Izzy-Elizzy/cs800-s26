@@ -6,14 +6,12 @@ Submitted by: Md Habibur Rahman
 There are two papers I have chosen  `PentestGPT`, published in USENIX 2024 and `PentestAgent`, published in ASIA CCS 2025. In this assignment I am going to show the relationship and reason behind citing. Additionally, I am going to prepare for a presentation slide for presenting it in the class.
 
 ### Directory
-- [files/](../5/files/) -> .pptx -> powerpoint presentation
+As submitting the google slides links so there is only README.md file available here.
 
 ```text
 Rahman
 └── 5
-    ├── README.md
-    └── files
-        └── CS800_Rahman.pptx
+    └── README.md
  
 
 ```
@@ -67,4 +65,4 @@ series = {ASIA CCS '25}​
 
 
 ### Google Slide Link
-Here is the Google Slide Link: [Google Slides](https://olddominion-my.sharepoint.com/:p:/g/personal/mrahm015_odu_edu/IQB0LtjHYFdhTrdbP7vUPZF5AefqZy9y7cyEjbqVJ11wQRU?e=PP1muthttps%3A%2F%2Folddominion-my.sharepoint.com%2F%3Ap%3A%2Fg%2Fpersonal%2Fmrahm015_odu_edu%2FIQB0LtjHYFdhTrdbP7vUPZF5AefqZy9y7cyEjbqVJ11wQRU%3Fe%3DPP1mut)
+Here is the Google Slide Link: [Google Slides](https://docs.google.com/presentation/d/13o1HvTX8au4JlMpZsoCrz69-RQ4vWOlVUVYTa8lwR8w/edit?usp=sharing)
