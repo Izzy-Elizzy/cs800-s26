@@ -29,15 +29,19 @@ Thus, the second paper cites the first because it provides the foundational fram
 
 ```bibtex
 @inproceedings{pijpker2023ship,
-  author={Pijpker, Jeroen and McCombie, Stephen},
   title={A Ship Honeynet to Gather Cyber Threat Intelligence for the Maritime Sector},
-  booktitle={IEEE Conference},
-  year={2023}
+  author={Pijpker, Jeroen and McCombie, Stephen},
+  booktitle={2023 IEEE 48th Conference on Local Computer Networks (LCN)},
+  pages={1--4},
+  year={2023},
+  organization={IEEE}
 }
 
 @inproceedings{brouwer2025honeyship,
-  author={Brouwer, Stern and Pijpker, Jeroen and Mohsen, Fadi},
   title={HoneyShip: Unveiling Cyber Threats to Maritime {VSAT} Systems with a High-Interaction Honeypot},
-  booktitle={IEEE International Conference on Industrial Cyber-Physical Systems},
-  year={2025}
+  author={Brouwer, Stern and Pijpker, Jeroen and Mohsen, Fadi},
+  booktitle={2025 IEEE International Conference on Industrial Cyber-Physical Systems},
+  pages={1--6},
+  year={2025},
+  organization={IEEE}
 }
