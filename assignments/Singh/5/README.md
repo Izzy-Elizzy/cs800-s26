@@ -46,4 +46,4 @@ Thus, the second paper cites the first because it provides the foundational fram
   organization={IEEE}
 }
 ```
-## Google Slides: [Click Here] (https://docs.google.com/presentation/d/1J2HwmLuZVpsJl1rFmntNIW3HE7c3V1KdlYuqBeWEung/edit?usp=sharing)
+## Google Slides: [Click Here](https://docs.google.com/presentation/d/1J2HwmLuZVpsJl1rFmntNIW3HE7c3V1KdlYuqBeWEung/edit?usp=sharing)
