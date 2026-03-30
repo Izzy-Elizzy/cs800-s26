@@ -19,7 +19,7 @@ First Page
 
 <img src="screenshots/Paper_1.png" alt="Paper 1" width="400" />
 Reference
-'''
+```
 @misc { cachay2025elucidated ,
 title ={ Elucidated Rolling Diffusion Models for Probabilistic Forecasting of
 Complex Dynamics } ,
@@ -31,7 +31,7 @@ archivePrefix ={ arXiv } ,
 primaryClass ={ cs . LG } ,
 doi ={10.48550/ arXiv .2506.20024}
 }
-'''
+```
 DOI
 
 https://doi.org/10.48550/arXiv.2506.20024
@@ -61,7 +61,7 @@ First Page
 <img src="screenshots/Paper_2.png" alt="Paper 2" width="400" />
 
 Reference
-'''
+```
 @misc { huang2024diffda ,
 title ={{ DiffDA }: A Diffusion Model for Weather - scale Data Assimilation } ,
 author ={ Huang , Langwen and Gianinazzi , Lukas and Yu , Yuejiang and D {\" u } ben ,
@@ -73,7 +73,7 @@ primaryClass ={ cs . LG } ,
 doi ={10.48550/ arXiv .2401.05932}
 }
 
-'''
+```
 
 DOI
 https://doi.org/10.48550/arXiv.2401.05932
@@ -96,14 +96,14 @@ Demonstrates the ability to handle weather scale systems efficiently.
 Shows improved reconstruction of atmospheric states from sparse observations.
 
 ----
-Paper 3 Deep Learning Based Aerosol and Ocean Data Retrieval
+## Paper 3 Deep Learning Based Aerosol and Ocean Data Retrieval
 
 First Page
 
 <img src="screenshots/Paper_3.png" alt="Paper 3" width="400" />
 Reference
 
-'''
+```
 @inproceedings { wang2025aerosol ,
 title ={ Deep Learning - Based Aerosol and Ocean Data Retrieval from Satellite
 Polarimeter Measurements } ,
@@ -115,7 +115,7 @@ year ={2025} ,
 pages ={1542 - -1547} ,
 doi ={10.1109/ SoutheastCon56624 .2025.10971488}
 }
-'''
+```
 Problem
 
 Retrieving aerosol and ocean properties from satellite polarimeter measurements is complex due to nonlinear relationships between measurements and environmental variables. Traditional retrieval algorithms are often slow and limited.
@@ -133,13 +133,13 @@ Improves accuracy and efficiency compared to traditional retrieval methods.
 Demonstrates the feasibility of AI driven remote sensing data analysis.
 
 ----
-Paper 4 Attention Is All You Need
+## Paper 4 Attention Is All You Need
 
 First Page
 
 <img src="screenshots/Paper_4.png" alt="Paper 4" width="400" />
 Reference
-'''
+```
 @misc { vaswani2017attention ,
 title ={ Attention Is All You Need } ,
 author ={ Vaswani , Ashish and Shazeer , Noam and Parmar , Niki and Uszkoreit ,
@@ -152,7 +152,7 @@ archivePrefix ={ arXiv } ,
 primaryClass ={ cs . LG } ,
 doi ={10.48550/ arXiv .1706.03762}
 }
-'''
+```
 DOI
 
 https://doi.org/10.48550/arXiv.1706.03762
@@ -176,14 +176,15 @@ Introduces self-attention as the core mechanism for sequence modeling.
 Significantly improves performance and training efficiency in machine translation and other NLP tasks.
 
 -----
-Paper 5 Generative Data Assimilation of Sparse Weather Station Observations
+## Paper 5 Generative Data Assimilation of Sparse Weather Station Observations
 
 First Page
 
 <img src="screenshots/Paper_5.png" alt="Paper 5" width="400" />
 
 Reference
-'''
+
+```
 @article { manshausen2025generative ,
 title ={ Generative Data Assimilation of Sparse Weather Station Observations
 at Kilometer Scales } ,
@@ -197,7 +198,7 @@ pages ={ e2024MS004505 } ,
 year ={2025} ,
 doi ={10.1029/2024 MS004505 }
 }
-'''
+```
 
 DOI
 
