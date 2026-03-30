@@ -18,17 +18,19 @@
 First Page
 
 <img src="screenshots/Paper_1.png" alt="Paper 1" width="400" />
+
 Reference
+
 ```bibtex
-@misc{cachay2025elucidated ,
+@misc{cachay2025elucidated,
 title={Elucidated Rolling Diffusion Models for Probabilistic Forecasting of
-Complex Dynamics} ,
-author={Cachay , Salva R {\" u } hling and Aittala , Miika and Kreis , Karsten and
-Brenowitz , Noah and Vahdat , Arash and Mardani , Morteza and Yu , Rose } ,
-year={2025} ,
-eprint={2506.20024} ,
-archivePrefix={{arXiv}} ,
-primaryClass={cs.LG} ,
+Complex Dynamics},
+author={Cachay, Salva R {\" u } hling and Aittala, Miika and Kreis, Karsten and
+Brenowitz, Noah and Vahdat, Arash and Mardani, Morteza and Yu, Rose } ,
+year={2025},
+eprint={2506.20024},
+archivePrefix={{arXiv}},
+primaryClass={cs.LG},
 doi={10.48550/arXiv.2506.20024}
 }
 ```
@@ -61,15 +63,16 @@ First Page
 <img src="screenshots/Paper_2.png" alt="Paper 2" width="400" />
 
 Reference
+
 ```bibtex
-@misc{huang2024diffda ,
+@misc{huang2024diffda,
 title={{DiffDA}: A Diffusion Model for Weather - scale Data Assimilation } ,
 author={Huang , Langwen and Gianinazzi , Lukas and Yu , Yuejiang and D {\" u } ben ,
-Peter D . and Hoefler , Torsten } ,
-year={2024} ,
-eprint={2401.05932} ,
-archivePrefix={{arXiv}} ,
-primaryClass ={cs . LG } ,
+Peter D . and Hoefler , Torsten },
+year={2024},
+eprint={2401.05932},
+archivePrefix={{arXiv}},
+primaryClass ={cs . LG },
 doi ={10.48550/ arXiv .2401.05932}
 }
 
@@ -104,15 +107,15 @@ First Page
 Reference
 
 ```bibtex
-@inproceedings{wang2025aerosol ,
+@inproceedings{wang2025aerosol,
 title={Deep Learning - Based Aerosol and Ocean Data Retrieval from Satellite
-Polarimeter Measurements } ,
+Polarimeter Measurements},
 author={Wang , Lingxiao and Stamnes , Snorre and Hassan , Sunzid and Isiani ,
 Alexander and Sturdivant , Cheston and Le , Hoang My and Mahmud , Khan
-Raqib} ,
-booktitle={Proceedings of the {IEEE} SoutheastCon 2025} ,
-year={2025} ,
-pages={1542 - -1547} ,
+Raqib},
+booktitle={Proceedings of the {IEEE} SoutheastCon 2025},
+year={2025},
+pages={1542 - -1547},
 doi={10.1109/ SoutheastCon56624 .2025.10971488}
 }
 ```
@@ -140,16 +143,16 @@ First Page
 <img src="screenshots/Paper_4.png" alt="Paper 4" width="400" />
 Reference
 ```bibtex
-@misc{vaswani2017attention ,
-title={Attention Is All You Need } ,
+@misc{vaswani2017attention,
+title={Attention Is All You Need},
 author={Vaswani , Ashish and Shazeer , Noam and Parmar , Niki and Uszkoreit ,
 Jakob and Jones , Llion and Gomez , Aidan N . and Kaiser , {\ L } ukasz and
-Polosukhin , Illia } ,
+Polosukhin , Illia },
 1
-year ={2017} ,
-eprint={1706.03762} ,
-archivePrefix={{arXiv}} ,
-primaryClass={cs . LG } ,
+year ={2017},
+eprint={1706.03762},
+archivePrefix={{arXiv}},
+primaryClass={cs.LG},
 doi={10.48550/ arXiv .1706.03762}
 }
 ```
@@ -185,17 +188,17 @@ First Page
 Reference
 
 ```bibtex
-@article{manshausen2025generative ,
+@article{manshausen2025generative,
 title={Generative Data Assimilation of Sparse Weather Station Observations
-at Kilometer Scales } ,
-author={Manshausen , Peter and Cohen , Yair and Harrington , Peter and Pathak ,
+at Kilometer Scales },
+author={Manshausen, Peter and Cohen , Yair and Harrington , Peter and Pathak ,
 Jaideep and Pritchard , Mike S . and Garg , Piyush and Mardani , Morteza and
 Kashinath , Karthik and Byrne , Simon and Brenowitz , Noah D .} ,
-journal={Journal of Advances in Modeling Earth Systems } ,
-volume={17} ,
-number={10} ,
-pages={e2024MS004505 } ,
-year={2025} ,
+journal={Journal of Advances in Modeling Earth Systems},
+volume={17},
+number={10},
+pages={e2024MS004505 },
+year={2025},
 doi={10.1029/2024 MS004505 }
 }
 ```
